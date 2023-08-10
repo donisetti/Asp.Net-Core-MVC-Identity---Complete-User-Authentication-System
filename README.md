@@ -13,7 +13,7 @@ Pontos discutidos:
 -Autorização
 -Como Personalizar Ainda Mais, etc.
 
- ## How it works ?
+ ## Como isso funciona?
  
  :tv: Video tutorial on this same topic
  Url : https://youtu.be/wzaoQiS_9dI
