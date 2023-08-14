@@ -1,19 +1,19 @@
 # Asp.Net-Core-MVC-Identity---Complete-User-Authentication-System
-This is a demo project for demonstrating User Authentication and Autherization in Asp.Net Core MVC Project with Identity UI.
+Este é um projeto de demonstração para mostrar Autenticação e Autorização de Usuário em um Projeto Asp.Net Core MVC com Identity UI.
 
+Pontos discutidos:
 
-Points discussed :
--	How it Identity UI Works
--	Add Asp.Net Core Identity
--	Add New Properties to Identity
--	Modify Password Validations
--	Display Logged In User Details in App NavBar 
--	Login Form
--	Retrive logged in user id or user claims
--	Autherization
--	How to Customize Further, etc
+-Como o Identity UI funciona
+-Adicionar Asp.Net Core Identity
+-Adicionar Novas Propriedades à Identidade
+-Modificar Validações de Senha
+-Exibir Detalhes do Usuário Logado na Barra de Navegação do Aplicativo
+-Formulário de Login
+-Recuperar o ID do usuário logado ou as reivindicações do usuário
+-Autorização
+-Como Personalizar Ainda Mais, etc.
 
- ## How it works ?
+ ## Como isso funciona?
  
  :tv: Video tutorial on this same topic
  Url : https://youtu.be/wzaoQiS_9dI
